@@ -1,0 +1,32 @@
+body {
+    font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+ul{
+    list-style: none;
+    text-align: right;
+    background-color: #77829E;
+    height: 30px;
+    width: 100%;
+    padding: 2%;
+    font-size: 25px;
+    position: absolute;
+    top: -3%
+    
+}
+
+li{
+    display: inline;
+    margin-left: 120px;
+    
+}
+
+#logo {
+    position: absolute;
+    left: -10%;
+    top: 20%;
+    
+}
